@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "sj",
+      "age": "jsj",
+      "Dob": "2022-04-13",
+      "State": "jsj",
+      "address": "jsjs",
+      "pincode": "jsjjs",
+      "id": "9-DGyDf"
+    },
+    {
+      "name": "sj",
+      "age": "jsj",
+      "Dob": "2022-04-13",
+      "State": "jsj",
+      "address": "jsjs",
+      "pincode": "jsjjs",
+      "id": "UcL-RuG"
+    },
+    {
+      "name": "sp",
+      "age": "74",
+      "Dob": "2022-04-05",
+      "State": "no",
+      "address": "rewa",
+      "pincode": "486335",
+      "id": "7KGoxu3"
+    },
+    {
+      "name": "sp",
+      "age": "74",
+      "Dob": "2022-04-05",
+      "State": "no",
+      "address": "rewa",
+      "pincode": "486335",
+      "id": "PFBtxTx"
+    }
+  ]
+}
