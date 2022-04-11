@@ -40,6 +40,9 @@ function reducer(state,action){
                 "Content-Type":"application/json"
             }
         }).then((res)=> res.json()) 
+           .then((res)=>{
+            alert("User Added Sucessfully");
+           }) 
         .catch((error)=> console.log(error))
      }
      React.useEffect(()=>{
