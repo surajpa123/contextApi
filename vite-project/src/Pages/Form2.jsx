@@ -8,7 +8,7 @@ export const Form2 = ()=>{
         return <Navigate to={"/register/one"}></Navigate>
     }
     return(
-        <div>
+        <div> 
 
             <input type="text" placeholder="Enter state" value={State} onChange={(e)=>{dispatch({type:"Change_State",payload:e.target.value})}}/>
 <br />

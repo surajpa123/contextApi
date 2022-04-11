@@ -7,7 +7,7 @@ const Mynavigate = useNavigate()
     return(
 
         <div>
-            <h1>Add Users</h1>
+            {/* <h1>Add Users</h1> */}
 
             <button onClick={()=>Mynavigate(`/users`)} >Show all users</button>
             
